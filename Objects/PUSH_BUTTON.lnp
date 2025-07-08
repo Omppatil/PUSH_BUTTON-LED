@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj" 
+TO ".\Objects\PUSH_BUTTON" 
+PRINT(".\Listings\PUSH_BUTTON.m51")
